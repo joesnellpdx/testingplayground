@@ -1,2 +1,2 @@
 # testingplayground
-Testing elayground for personal use
+Testing playground for personal use
